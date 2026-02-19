@@ -1,5 +1,5 @@
 // 1. Esto saldrá en la consola (la pestaña "Console" que ves en tu navegador)
-console.log("Tarea de: Veronica Pardo");
+console.log("Tarea");
 
 // 2. Buscamos el botón y el cuadro de texto
 const boton = document.querySelector('button');
@@ -14,6 +14,6 @@ boton.addEventListener('click', function(event) {
     if(nombreUsuario === "") {
         alert("¡Por favor, escribe tu nombre primero!");
     } else {
-        alert("¡Hola " + nombreUsuario + "! Soy tu primer programa en JS funcionando.");
+        alert("¡Hola " + nombreUsuario + "!");
     }
 });
