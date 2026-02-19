@@ -1,7 +1,7 @@
  ¿Qué fue lo más difícil? 
  La parte de js, git y comprender la sintaxis de html  y java
 • ¿Qué no entendieron completamente? 
-el porque algunas cosas no salen como en quiero en css.
+el porque algunas cosas no salen como en quiero en css y el como modificar el tamanio de las imagenes que pongo.
 • ¿Para qué creen que sirve Git en proyectos reales? 
 Para tener un historial de seguridad. Si borro algo por error, puedo volver atrás(evitar perder mi trabajo). Sirve tambien para trabajar en equipo, cada uno con su rama sin estorbarse para luego juntan sus avances, y si alguien hace algo mal poder echarle la culpa o simplemente saber quien hizo que 
 • ¿Por qué es importante estructurar bien un proyecto?
